@@ -1,4 +1,4 @@
-for i in range(1,101):
+for i in range(0,101):
     print(i)
-    i += 5
+    i += 10
     
